@@ -59,11 +59,13 @@ Ensure you have **Python 3.7+** installed.
 └── screenshots/              # Folder containing UI screenshots
 ```
 
+
 ## Team Members
-- **Prabhjot Singh** *(Team Lead & Model Development)*
-- **Mohammed Jaffer Sulaiman** *(Data Preprocessing & GUI Implementation)*
+- **[@prabhjot-singh-virdi](https://github.com/prabhjot-singh-virdi)** *(Team Lead & Model Development)*
+- **[@jaffer-sulaiman](https://github.com/jaffer-sulaiman)** *(Data Preprocessing & GUI Implementation)*
 - **Suryakant** *(Feature Engineering & Testing)*
-- **Stephenca** *(Report & Documentation)*
+- **Stephenca** *(Feature Engineering & Testing)*
+
 
 ## Acknowledgments
 This project was part of our **Machine Learning Internship at Feynn Labs**. Special thanks to **Feynn Labs AI Incubator** for their guidance and mentorship.
@@ -73,7 +75,4 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For queries or contributions, feel free to reach out to any of the team members.
-
----
-*Note: Replace `path_to_screenshot_1.png` and `path_to_screenshot_2.png` with actual paths to your images before pushing to GitHub.*
 
